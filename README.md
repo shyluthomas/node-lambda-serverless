@@ -15,7 +15,7 @@ This project is an AWS Lambda service built using Node.js and the Serverless Fra
 
 ## Installation
 
-1. Clone the repository: `[git clone https://github.com/your-username/your-repository.git](https://github.com/shyluthomas/node-lambda-serverless)](https://github.com/shyluthomas/node-lambda-serverless)`
+1. Clone the repository: `[https://github.com/shyluthomas/node-lambda-serverless](https://github.com/shyluthomas/node-lambda-serverless)`
 2. Navigate to the project directory: `cd your-repository`
 3. Install dependencies: `npm install`
 
